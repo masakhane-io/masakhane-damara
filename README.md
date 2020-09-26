@@ -1,2 +1,2 @@
-# masakhane-damara
-Our collection of corpora for damara language
+# masakhane-khoekhoegowab
+Our collection of corpora for Khoekhoegowab language
